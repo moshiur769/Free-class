@@ -1,0 +1,205 @@
+
+section{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+h1,h2,h3{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner{
+    background: linear-gradient(rgb(36, 42, 86,.8),rgb(36, 42, 86,.8)) ,url("banner.jpg");
+    height: 100vh;
+    padding-top: 20px;
+}
+.logo{
+    width: 150px;
+}
+.logo img{
+    width: 100%;
+    padding-bottom: 3px;
+}
+img {
+    vertical-align: middle;
+    margin-top: -14px;
+}
+.menu {
+    text-align: right;
+}
+.menu a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 30px;
+   
+}
+.button{
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background: #233183;
+    color: #fff;
+    border-radius:5px;
+    transition: .5s;
+
+}
+.button:hover{
+    background: #fff;
+    color: []#000;
+}
+
+.banner-text{}
+.banner-text h2{
+    margin-top: 150px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+    color: #fff;
+}
+.banner-text h1{
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 700;
+    color: #fff;
+}
+.banner-text p{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #fff;
+}
+/* <!-- service section --> */
+.title{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.title h1{
+    font-size: 42px;
+    line-height: 42px;
+    font-weight: 600;
+    color: #242a56;
+}
+.title p{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #393a56;
+}
+.services{
+    background: #eef1fe;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.service{
+    background: #fff;
+    padding: 40px;
+    padding-right: 70px;
+}
+.service i{
+    font-size: 42px;
+    line-height: 42px;
+    color: #6878d6;
+}
+.service h2{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 600;
+    color: #a7bcda;
+}
+.service p{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #393a56;
+}
+.cusgap{
+    margin-top: 20px;
+}
+.space{
+    padding-top: 80px;
+}
+.cus-bor{
+    border-right: 1px solid #eee;
+}
+.pot{
+    padding: 20px;
+}
+.market{
+    padding: 60px;
+}
+
+.revieu{
+    margin-top: -120px;
+}
+.revieu h1{
+    font-size: 28px;
+    line-height: 50px;
+    font-weight: 700;
+    color: #a7bcda;
+}
+.revieu p{
+    font-size: 13px;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.revieu img{
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.portfolio{
+    padding-bottom: 0px;
+}
+.team h3{
+    font-size: 22px;
+    padding-top: 30px;
+    color: #2d3784;
+}
+.CTA{
+    background: #eee;
+    box-shadow: 7px 6px 29px #dee3f3;
+    border-radius: 5px;
+    padding: 35px;
+    margin-top: 78px;
+ 
+}
+.CTA h1{
+    font-size: 33px;
+    color: #6878d6;
+}
+
+.CTA button{
+    margin-left: 90px;
+    margin-top: 34px;
+}
+.footer{
+    background: #242a56;
+    color: #fff;
+}
+.footer p{
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.footer i{
+    margin-right: 11px;
+    font-size: 23px;
+}
+.footer ul{
+    list-style: none;
+    margin-left: -33px;
+    margin-top: 20px;
+}
+.fb{
+    background: #242a56;
+    color: #fff;
+    border-top: 1px solid #eee;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
